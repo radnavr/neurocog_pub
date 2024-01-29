@@ -1,0 +1,1 @@
+Neurocog is a medical CRUD app dedicated to management of neuro-cognitive rehabilitation procedures. Its goal is to streamline communication and grant more autonomy to participating medical personnel.
